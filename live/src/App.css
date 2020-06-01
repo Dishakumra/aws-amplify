@@ -1,0 +1,57 @@
+.cool {
+
+    font-style:italic;
+    font-weight: bold;
+
+
+    background-image: url("book.jpeg");
+    min-height:100px;
+    background-blend-mode: soft-light;
+     opacity: 0.7;
+     color: floralwhite;
+
+
+
+
+}
+
+.iconn{
+width:65px;
+height:70px;
+padding-right:0px;
+margin: 0px;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:floralwhite;
+}
+.navitem{
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
