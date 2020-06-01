@@ -12,9 +12,7 @@ render(){
   return (
     <div>
 
-     <Header/>
-     <Navigationbar/>
-     <Books/>
+  <p> hello there</p>
     </div>
   );
 }
